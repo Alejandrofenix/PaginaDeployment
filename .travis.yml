@@ -13,7 +13,6 @@ script:
   - pwd
   - ls -la
   - date
-  - cd laknsbdkjas
   - echo "Finalizar"
 
 notifications:
